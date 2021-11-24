@@ -6,6 +6,8 @@ The challenge is to create a live search for events in the system. The requireme
 - It's a React application
 - There is an input which the user can use to live search for events
 - There is a list with results of events
+- The list contains the following fields: Name of event, promotor and location
+- Basic layout
 
 Bonus points for:
 - Debounce search input
@@ -17,8 +19,7 @@ Bonus points for:
 We have an endpoint to request information on events. The endpoint documentation is available here:
 https://documenter.getpostman.com/view/7846737/S1Zxap7g
 
-Be aware that you need to use Basic Auth to access the endpoint.
-
+Be aware that you need to use Basic Auth to access the endpoint. This is something we will provide.
 Use what ever tools you feel comfortable with. For example, create-react-app, axios, etc.
 
 Good luck!
